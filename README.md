@@ -2,25 +2,28 @@
 
 **Autor:** Carlos Biagolini-Jr.
 
-## Tutoriais Angular
+# Angular
 
 https://github.com/biagolini/tutoriaisAngular
 
-## Tutoriais C
+# C
 
 https://github.com/biagolini/tutoriaisC
 
-## Tutoriais Java
+# Java
 
 https://github.com/biagolini/tutoriaisJava
 
-## Tutoriais Python
+# Python
 
 https://github.com/biagolini/tutoriaisPython
 
-## Tutoriais R
+# R
 
 https://github.com/biagolini/tutoriaisR
+
+# Terraform
+https://github.com/biagolini/tutoriaisTerraform
 
 # Moviação:
 
