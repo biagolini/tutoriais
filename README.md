@@ -4,26 +4,29 @@
 
 # Angular
 
-https://github.com/biagolini/tutoriaisAngular
+https://github.com/biagolini/Angular
 
 # C
 
-https://github.com/biagolini/tutoriaisC
+https://github.com/biagolini/C
 
 # Java
 
-https://github.com/biagolini/tutoriaisJava
+https://github.com/biagolini/Java
 
 # Python
+### Geral
+https://github.com/biagolini/Python
 
-https://github.com/biagolini/tutoriaisPython
+### Boto3
+https://github.com/biagolini/Boto3
 
 # R
 
-https://github.com/biagolini/tutoriaisR
+https://github.com/biagolini/R
 
 # Terraform
-https://github.com/biagolini/tutoriaisTerraform
+https://github.com/biagolini/Terraform
 
 # Moviação:
 
